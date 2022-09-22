@@ -1,0 +1,36 @@
+{   
+    "local": "São Paulo",
+    "dataEvento": "2022-09-10T15:43:38.499",
+    "tema": "Angular 11 e suas novidades",
+    "qtdPessoas": 350,
+    "imagemURL": "foto2.png",
+    "telefone": "458741595",
+    "email": "angularbh@angular.com",
+    "lotes": [
+      {        
+        "nome": "1º Lote",
+        "preco": 50,
+        "dataInicio": "2022-09-13T22:22:28.073",
+        "dataFim": "2022-09-13T22:22:28.073",
+        "quantidade": 150
+      },
+     {
+        "nome": "2º Lote",
+        "preco": 150.25,
+        "dataInicio": "2022-09-13T22:22:28.073",
+        "dataFim": "2022-09-13T22:22:28.073",
+        "quantidade": 200
+      }
+    ],
+    "redesSociais": [
+     {
+      "nome": "facebook",
+      "url": "http://facebook.com/programadarmente"     
+    },
+{
+      "nome": "facebook",
+      "url": "http://facebook.com/SPAngular"
+    }
+    ],
+    "palestrantesEventos": []
+  }
